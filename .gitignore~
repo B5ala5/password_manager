@@ -1,9 +1,0 @@
-./..gitignore.un~
-./.gitignore.swp
-./.gitignore~
-./src/key.key
-./src/passwords.csv 
-./src/main.py.swp
-./src/main.py~
-./src/.main.py.un~
-./token.txt
