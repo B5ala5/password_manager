@@ -1,3 +1,4 @@
+.gitignore
 src/key.key
 src/passwords.csv 
-
+token.txt
