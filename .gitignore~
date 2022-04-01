@@ -1,7 +1,6 @@
 ./..gitignore.un~
 ./.gitignore.swp
 ./.gitignore~
-./.gitignore
 ./src/key.key
 ./src/passwords.csv 
 ./src/main.py.swp

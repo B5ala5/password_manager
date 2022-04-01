@@ -228,7 +228,7 @@ data = {
 
 def clear():
 
-    _ = call('clear' if os.name == 'posix' else 'cls', shell= True)
+    _ = call('clear' if os.name == 'posix' else 'cls')
 
 def menu():
     clear()
